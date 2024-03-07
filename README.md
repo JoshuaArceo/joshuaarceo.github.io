@@ -1,1 +1,1 @@
-Just a small website I'm adding to to learn and share my work.
+Portfolio website to be filled with projects and accomplishments
