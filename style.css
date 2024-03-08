@@ -23,9 +23,18 @@ header {
     text-align: center;
 }
 
+
+header img {
+    margin-bottom: -10px; /* Adjust this value as needed */
+}
+
+
 header h1 {
+    margin-top: 0px; /* Adjust this value as needed */
+
     margin-bottom: 0.5rem;
 }
+
 
 nav ul {
     list-style: none;
